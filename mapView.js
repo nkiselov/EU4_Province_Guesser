@@ -4,8 +4,8 @@ function makeMapView(provinceDescription,onProvinceClick){
     canvas.style.width = "100%"
     canvas.style.height = "100%"
 
-    canvas.width = 3072/2
-    canvas.height = 2048/2
+    canvas.width = 3072
+    canvas.height = 2048
 
     let rectPos = [0.5,0.5]
     let rectHeight = 1
