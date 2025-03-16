@@ -92,7 +92,6 @@ Promise.all([
         makevbox([mapView.html]),
         ltab
     ])
-    main.style.justifyContent = "center"
     document.body.appendChild(main)
 
     setupGame()
